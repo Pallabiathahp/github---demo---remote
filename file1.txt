@@ -1,0 +1,11 @@
+hi
+hello
+return value
+addition 
+substraction 
+return multiplicity on bug456
+substraction
+
+#square implementation
+def square()
+      return X*X;
